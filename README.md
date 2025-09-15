@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [1006-vowel-spellchecker](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## Linked List
 |  |
 | ------- |
@@ -88,4 +89,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1006-vowel-spellchecker](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 <!---LeetCode Topics End-->
