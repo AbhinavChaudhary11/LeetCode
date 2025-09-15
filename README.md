@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/0148-sort-list) |
 ## Sorting
 |  |
@@ -68,11 +69,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/0053-maximum-subarray) |
 | [0943-sum-of-subarray-minimums](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1006-vowel-spellchecker](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/1006-vowel-spellchecker) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/0053-maximum-subarray) |
 | [0943-sum-of-subarray-minimums](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 ## Monotonic Stack
 |  |
