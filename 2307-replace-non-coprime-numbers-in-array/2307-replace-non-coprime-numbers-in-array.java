@@ -7,7 +7,7 @@ class Solution {
         for (int i = 0; i < nums.length; i++) {
             st.push(nums[i]);
 
-            // ✅ keep merging until top 2 are coprime
+            
             while (st.size() > 1) {
                 int first = st.pop();
                 int second = st.pop();
@@ -15,7 +15,7 @@ class Solution {
                 int gcd = getGCD(first, second);
 
                 if (gcd > 1) {
-                    long lcm = (long) first / gcd * second; // prevent overflow
+                    long lcm = (long) first / gcd * second; 
                     st.push((int) lcm);
                 } else {
                     st.push(second);
