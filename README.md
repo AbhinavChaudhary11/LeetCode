@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/0002-add-two-numbers) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Recursion
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0943-sum-of-subarray-minimums](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Array
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1006-vowel-spellchecker](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [2227-sum-of-subarray-ranges](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -90,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1006-vowel-spellchecker](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
+## Number Theory
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
