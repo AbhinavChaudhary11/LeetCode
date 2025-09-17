@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [1006-vowel-spellchecker](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2429-design-a-food-rating-system](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/2429-design-a-food-rating-system) |
 ## Linked List
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [2429-design-a-food-rating-system](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/2429-design-a-food-rating-system) |
 ## Stack
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [2227-sum-of-subarray-ranges](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2429-design-a-food-rating-system](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/2429-design-a-food-rating-system) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -93,8 +96,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1006-vowel-spellchecker](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2429-design-a-food-rating-system](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/2429-design-a-food-rating-system) |
 ## Number Theory
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Design
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/2429-design-a-food-rating-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/2429-design-a-food-rating-system) |
 <!---LeetCode Topics End-->
