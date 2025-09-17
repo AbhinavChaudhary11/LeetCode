@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0735-asteroid-collision](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/0053-maximum-subarray) |
+| [0735-asteroid-collision](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1006-vowel-spellchecker](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1834-minimum-number-of-people-to-teach](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
