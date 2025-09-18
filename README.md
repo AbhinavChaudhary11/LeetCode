@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2429-design-a-food-rating-system](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/3678-design-task-manager) |
 ## Linked List
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [2429-design-a-food-rating-system](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/3678-design-task-manager) |
 ## Stack
 |  |
 | ------- |
@@ -109,10 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/3678-design-task-manager) |
 ## Ordered Set
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/AbhinavChaudhary11/LeetCode/tree/master/3678-design-task-manager) |
 ## Greedy
 |  |
 | ------- |
